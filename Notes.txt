@@ -1,0 +1,10 @@
+http://sampleapp.tricentis.com/101/
+
+http://demowebshop.tricentis.com/
+
+{CP[TCP Name]}
+{B[Buffer Name]}
+{RND[]}
+{RANDOMTEXT[]}
+{RANDOMREGEX["^[][][]$"]}
+{DATE[][-{RND[18-50Y]}][MM/dd/yyyy]}
